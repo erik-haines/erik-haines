@@ -45,6 +45,8 @@ Current areas of inquiry include:
 - **Knowledge, Technology & Society** — Exploring how information systems, artificial intelligence and digital infrastructures shape scholarship, institutions and public understanding.
 - **Theory & Praxis** — Examining relationships among philosophical reflection, practical judgment, human development and meaningful action.
 
+I also investigate how contextual and evolutionary processes shape human agency and our engagement with artificial intelligence, drawing on contextual behavioural science, integral theory and critical theory. My emerging interests include how AI and robotics can support human judgment, contextual learning and values-committed action while preserving the distinction between computational functioning and subjective awareness.
+
 These interests inform my independent writing, research and developing approaches to knowledge work.
 
 ## Current Work & Exploration
