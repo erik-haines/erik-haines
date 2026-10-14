@@ -2,7 +2,7 @@
 
 **Knowledge Management · Information Architecture · Digital Scholarship**
 
-I'm a Montréal-based researcher and knowledge management specialist working at the intersection of information architecture, scholarly research, digital knowledge systems and knowledge mobilization.
+I'm a Montreal-based researcher and knowledge management specialist working at the intersection of information architecture, scholarly research, digital knowledge systems and knowledge mobilization.
 
 My interests centre on how knowledge is created, organized, connected, preserved and communicated—and how information systems can support meaningful inquiry, collaboration and practical action.
 
