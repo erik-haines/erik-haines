@@ -1,55 +1,76 @@
 # Erik Haines
 
-**Researcher · Knowledge Management · Digital Scholarship**
+**Knowledge Management · Information Architecture · Digital Scholarship**
 
-I'm a Montréal-based researcher and knowledge management specialist interested in how knowledge is organized, connected, preserved, communicated and put to use.
+I'm a Montréal-based researcher and knowledge management specialist working at the intersection of information architecture, scholarly research, digital knowledge systems and knowledge mobilization.
 
-My work brings together intellectual history, philosophy, information architecture, digital research infrastructure and AI-assisted knowledge workflows.
+My interests centre on how knowledge is created, organized, connected, preserved and communicated—and how information systems can support meaningful inquiry, collaboration and practical action.
 
-I am the Founder and Director of the [Metapattern Institute](https://metapattern.org), alongside my independent research and writing.
+My professional background spans information technology, financial services, human services and organizational work. I am also the Founder and Director of the [Metapattern Institute](https://metapattern.org), alongside my independent scholarship and writing.
 
-## Areas of Work
+## Professional Capabilities
 
 **Knowledge Management & Information Architecture**
 
-Developing structured approaches to organizing people, institutions, research, projects, records and relationships across interconnected information systems.
+Organizing complex information, designing structured knowledge environments and establishing meaningful connections across people, ideas, records and institutions.
 
-**Digital Research Infrastructure**
+**Research Information Management & Digital Curation**
 
-Working with Zotero, Roam Research, Grist, AI-assisted research tools and local semantic search to support scholarly discovery, source management and research continuity.
+Developing and maintaining scholarly information resources, bibliographic collections, research records and source-grounded knowledge structures.
 
-**Digital Humanities & Knowledge Mobilization**
+**Information Systems & Workflow Design**
 
-Exploring scholarly publishing, linked bibliographies, intellectual history, knowledge graphs and ways of making research more accessible and useful.
+Designing relational information structures and interconnected workflows that support organizational coordination, documentation, reporting and continuity.
 
-**Philosophy & Independent Research**
+**AI-Assisted Research & Knowledge Discovery**
 
-Developing work in integral philosophy, critical theory, social thought, religion and the relationship between theory and lived practice.
+Exploring and applying artificial intelligence to scholarly inquiry, information retrieval, research synthesis and knowledge-intensive workflows.
 
-## Technical Experience
+**Digital Scholarship & Knowledge Mobilization**
 
-- Relational information management and operational workflows using Grist
-- Knowledge organization and connected research records in Roam Research
-- Bibliographic management and digital research curation using Zotero
-- Claude Desktop and MCP-based research-tool integration
-- Local semantic indexing with Ollama and ChromaDB
-- Research-data recovery, backup and workstation configuration
+Connecting research, intellectual resources and diverse audiences through accessible knowledge organization, scholarly communication and digital publishing.
 
-## Current Explorations
+**Digital Information Stewardship**
 
-- Portable scholarly publishing and interconnected research websites
-- Source-grounded intellectual history and bibliographic discovery
-- Semantic knowledge representation and knowledge graphs
-- Sustainable AI-assisted knowledge management practices
+Supporting the preservation, migration, recovery and long-term usability of information and research resources.
 
-## Writing & Research
+## Research & Intellectual Interests
 
-My independent writing explores philosophy, religion, critical theory, human development and contemporary intellectual life.
+My independent scholarship draws on philosophy, religious studies, critical theory, social thought and interdisciplinary approaches to human development.
 
-**Website:** [erikhaines.org](https://www.erikhaines.org/)
+Current areas of inquiry include:
 
-**Institution:** [Metapattern Institute](https://metapattern.org/)
+- **Integral Facticity & Enactive Fallibilism** — Philosophical investigations into knowledge, experience, interpretation, agency and the relationship between theory and lived practice.
+- **Intellectual History & Social Thought** — Investigating thinkers, traditions, institutions and the historical relationships through which ideas develop and circulate.
+- **Knowledge, Technology & Society** — Exploring how information systems, artificial intelligence and digital infrastructures shape scholarship, institutions and public understanding.
+- **Theory & Praxis** — Examining relationships among philosophical reflection, practical judgment, human development and meaningful action.
+
+These interests inform my independent writing, research and developing approaches to knowledge work.
+
+## Current Work & Exploration
+
+My current activities include developing interconnected information-management workflows, organizing scholarly research resources and investigating new approaches to research discovery and digital knowledge representation.
+
+I am particularly interested in:
+
+- Source-grounded scholarly reference and discovery systems
+- Connected bibliographies and intellectual knowledge graphs
+- Research infrastructure and sustainable digital collections
+- Independent scholarly publishing and knowledge dissemination
+- Responsible integration of AI into research and organizational knowledge work
+
+Some of these are established areas of practical experience; others remain emerging research and development interests.
+
+## Writing & Scholarship
+
+My independent writing examines philosophy, religion, critical theory, human development and contemporary intellectual life.
+
+I am interested in connecting sustained intellectual inquiry with accessible public scholarship while preserving the distinctions between evidence, interpretation and speculation.
+
+**Writing & Professional Website:** [erikhaines.org](https://www.erikhaines.org/)
+
+**Institutional Affiliation:** [Metapattern Institute](https://metapattern.org/)
 
 ---
 
-*This GitHub profile documents technical and knowledge-management work alongside my independent scholarly interests. Public repositories will be added as specific work is prepared for publication.*
+*This profile represents my independent professional and intellectual work. Specific technical contributions and public research resources will be documented here as they become available.*
