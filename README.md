@@ -1,6 +1,6 @@
 # Erik Haines
 
-**Knowledge Management · Information Architecture · Digital Scholarship**
+**Knowledge Management · Information Systems · Digital Scholarship**
 
 I'm a Montreal-based researcher and knowledge management specialist working at the intersection of information architecture, scholarly research, digital knowledge systems and knowledge mobilization.
 
