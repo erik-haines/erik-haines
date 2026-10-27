@@ -2,77 +2,130 @@
 
 **Knowledge Management · Information Systems · Digital Scholarship**
 
-I'm a Montreal-based researcher and knowledge management specialist working at the intersection of information architecture, scholarly research, digital knowledge systems and knowledge mobilization.
+I'm a Montréal-based researcher and knowledge management specialist working at the intersection of information architecture, scholarly research, digital knowledge systems, and knowledge mobilization.
 
-My interests centre on how knowledge is created, organized, connected, preserved and communicated—and how information systems can support meaningful inquiry, collaboration and practical action.
+My work focuses on how knowledge is created, organized, connected, preserved, and communicated—and how information systems and emerging technologies can support meaningful inquiry, organizational effectiveness, and practical action.
 
-My professional background spans information technology, financial services, human services and organizational work. I am also the Founder and Director of the [Metapattern Institute](https://metapattern.org), alongside my independent scholarship and writing.
+My professional background spans information technology, financial services, human services, and organizational work. I am also the Founder and Director of the [Metapattern Institute](https://metapattern.org), alongside my independent scholarship, writing, and technical projects.
 
 ## Professional Capabilities
 
 **Knowledge Management & Information Architecture**
 
-Organizing complex information, designing structured knowledge environments and establishing meaningful connections across people, ideas, records and institutions.
-
-**Research Information Management & Digital Curation**
-
-Developing and maintaining scholarly information resources, bibliographic collections, research records and source-grounded knowledge structures.
+Designing and organizing structured knowledge environments, developing taxonomies and navigational structures, and connecting information across people, concepts, publications, organizations, and records.
 
 **Information Systems & Workflow Design**
 
-Designing relational information structures and interconnected workflows that support organizational coordination, documentation, reporting and continuity.
+Developing and coordinating interconnected information systems, relational data structures, documentation workflows, and operational tools that support information accessibility, organizational continuity, and effective decision-making.
 
-**AI-Assisted Research & Knowledge Discovery**
+**Research Information Management & Digital Curation**
 
-Exploring and applying artificial intelligence to scholarly inquiry, information retrieval, research synthesis and knowledge-intensive workflows.
+Organizing scholarly collections, bibliographic resources, research records, intellectual histories, and source-qualified knowledge structures. Experience with digital preservation, version control, documentation, and information stewardship.
 
-**Digital Scholarship & Knowledge Mobilization**
+**AI-Assisted Research & Technical Development**
 
-Connecting research, intellectual resources and diverse audiences through accessible knowledge organization, scholarly communication and digital publishing.
+Applying AI-assisted workflows to research, information retrieval, requirements development, prototyping, software development, testing, documentation, and technical problem-solving.
 
-**Digital Information Stewardship**
+Experience coordinating AI development tools, reviewing outputs, verifying implementations, and maintaining human oversight of consequential decisions.
 
-Supporting the preservation, migration, recovery and long-term usability of information and research resources.
+**Digital Publishing & Scholarly Communication**
+
+Developing accessible digital publishing environments, research websites, podcasts, scholarly reference resources, and public-facing knowledge platforms.
+
+**Project Coordination & Systems Integration**
+
+Translating complex requirements into manageable development activities, coordinating technical and editorial work, evaluating results, maintaining records, and integrating tools across organizational workflows.
+
+## Selected Projects & Applied Work
+
+### Independent Professional Website & Digital Scholarship
+
+**[erikhaines.org](https://erikhaines.org)**
+
+Developed an independent professional and scholarly website bringing together research interests, writing, the *Integral [+] Facticity Podcast*, and emerging digital knowledge resources.
+
+Selected work includes:
+
+- Website information architecture, navigation, content organization, and editorial development.
+- Development and publication of an interactive 21-episode podcast interface with scholarly descriptions, references, and structured reading resources.
+- Design and refinement of interactive scholarly presentation and discovery features.
+- Coordination of AI-assisted implementation, testing, version control, and production releases.
+- Search indexing, legacy URL preservation, and website migration considerations.
+
+The project demonstrates practical experience in digital publishing, information architecture, research communication, technical coordination, and quality assurance.
+
+### Metapattern Institute — Knowledge & Information Systems
+
+**[Metapattern Institute](https://metapattern.org)**
+
+As Founder and Director, I coordinate organizational development, knowledge infrastructure, research resources, information systems, and digital communication.
+
+Selected technical and organizational work includes:
+
+- Development of interconnected planning, project management, activity tracking, and relationship-management environments.
+- Design of relational information structures linking projects, activities, people, organizations, and institutional records.
+- Development of private research and reference Wiki environments incorporating structured articles, source references, search, navigation, and revision history.
+- Coordination of archival preservation, source separation, documentation, and version-controlled development.
+- Development and maintenance of institutional website resources and publishing workflows.
+- Evaluation and integration of AI-assisted research and development tools.
+
+These activities involve both completed implementations and ongoing development. Internal systems remain private, and institutional records retain their own governance and authority.
+
+### Scholarly Research & Knowledge Organization
+
+My independent scholarly work includes essays, podcast conversations, intellectual history, interdisciplinary research, and the organization of connected research materials.
+
+Current interests in scholarly infrastructure include:
+
+- Connected bibliographies and source-grounded references.
+- Relationships among thinkers, works, intellectual traditions, and institutions.
+- Intellectual communities, digital publics, and the circulation of ideas.
+- Research discovery, knowledge graphs, and scholarly reference environments.
+- Responsible applications of AI to knowledge-intensive work.
+
+These activities connect traditional scholarship with emerging approaches to digital humanities and research information management.
 
 ## Research & Intellectual Interests
 
-My independent scholarship draws on philosophy, religious studies, critical theory, social thought and interdisciplinary approaches to human development.
+My independent scholarship draws on philosophy, religious studies, critical theory, social thought, and interdisciplinary approaches to human development.
 
 Current areas of inquiry include:
 
-- **Integral Facticity & Enactive Fallibilism** — Philosophical investigations into knowledge, experience, interpretation, agency and the relationship between theory and lived practice.
-- **Intellectual History & Social Thought** — Investigating thinkers, traditions, institutions and the historical relationships through which ideas develop and circulate.
-- **Knowledge, Technology & Society** — Exploring how information systems, artificial intelligence and digital infrastructures shape scholarship, institutions and public understanding.
-- **Theory & Praxis** — Examining relationships among philosophical reflection, practical judgment, human development and meaningful action.
+- **Integral Facticity & Enactive Fallibilism** — Philosophical investigations into knowledge, experience, interpretation, agency, and the relationship between theory and lived practice.
+- **Intellectual History & Digital Publics** — Examining intellectual communities, institutions, media, traditions, and the historical processes through which ideas circulate and develop.
+- **Knowledge, Technology & Society** — Exploring the influence of information systems, artificial intelligence, and digital infrastructures on scholarship, institutions, and public understanding.
+- **Theory & Praxis** — Investigating relationships among philosophical reflection, practical judgment, human development, and meaningful action.
+- **AI, Human Agency & Contextual Learning** — Exploring how AI and emerging technologies can support inquiry, judgment, learning, and values-directed action while preserving meaningful distinctions between human experience and computational functioning.
 
-I also investigate how contextual and evolutionary processes shape human agency and our engagement with artificial intelligence, drawing on contextual behavioural science, integral theory and critical theory. My emerging interests include how AI and robotics can support human judgment, contextual learning and values-committed action while preserving the distinction between computational functioning and subjective awareness.
+These interests inform my research and writing without constituting a single fixed theoretical framework.
 
-These interests inform my independent writing, research and developing approaches to knowledge work.
+## Professional Development & Emerging Directions
 
-## Current Work & Exploration
+I am interested in developing further professional opportunities at the intersection of knowledge management, information systems, digital scholarship, and applied technology.
 
-My current activities include developing interconnected information-management workflows, organizing scholarly research resources and investigating new approaches to research discovery and digital knowledge representation.
+Areas of particular interest include:
 
-I am particularly interested in:
+- Knowledge management and information architecture.
+- Research information management and digital humanities.
+- Digital curation, documentation, and information stewardship.
+- Information systems analysis and business process improvement.
+- AI-assisted knowledge work and technical project coordination.
+- Health information systems and emerging applications of health informatics.
 
-- Source-grounded scholarly reference and discovery systems
-- Connected bibliographies and intellectual knowledge graphs
-- Research infrastructure and sustainable digital collections
-- Independent scholarly publishing and knowledge dissemination
-- Responsible integration of AI into research and organizational knowledge work
-
-Some of these are established areas of practical experience; others remain emerging research and development interests.
+My approach emphasizes building on demonstrated transferable skills while continuing to develop technical proficiency, domain knowledge, and relevant professional qualifications.
 
 ## Writing & Scholarship
 
-My independent writing examines philosophy, religion, critical theory, human development and contemporary intellectual life.
+My independent writing examines philosophy, religion, critical theory, human development, and contemporary intellectual life.
 
-I am interested in connecting sustained intellectual inquiry with accessible public scholarship while preserving the distinctions between evidence, interpretation and speculation.
+The *Integral [+] Facticity Podcast* and my scholarly essays contribute to continuing inquiries into intellectual traditions, contemporary debates, human agency, and the relationship between theory and practice.
 
-**Writing & Professional Website:** [erikhaines.org](https://www.erikhaines.org/)
+I am particularly interested in making interdisciplinary scholarship more accessible through thoughtful communication, digital publishing, and connected knowledge resources.
 
-**Institutional Affiliation:** [Metapattern Institute](https://metapattern.org/)
+**Independent Writing & Professional Website:** [erikhaines.org](https://erikhaines.org)
+
+**Institutional Affiliation:** [Metapattern Institute](https://metapattern.org)
 
 ---
 
-*This profile represents my independent professional and intellectual work. Specific technical contributions and public research resources will be documented here as they become available.*
+*This profile presents my independent professional and intellectual work, including selected technical and organizational projects. AI-assisted contributions, developing capabilities, and independently verified accomplishments are distinguished where relevant.*
