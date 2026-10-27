@@ -6,7 +6,7 @@ I'm a Montréal-based researcher and knowledge management specialist working at 
 
 My work focuses on how knowledge is created, organized, connected, preserved, and communicated—and how information systems and emerging technologies can support meaningful inquiry, organizational effectiveness, and practical action.
 
-My professional background spans information technology, financial services, human services, and organizational work. I am also the Founder and Director of the [Metapattern Institute](https://metapattern.org), alongside my independent scholarship, writing, and technical projects.
+I bring more than two decades of professional experience across information technology, financial services, human services, and organizational work. I am also the Founder and Director of the [Metapattern Institute](https://metapattern.org), alongside my independent scholarship, writing, and technical projects.
 
 ## Professional Capabilities
 
@@ -42,23 +42,23 @@ Translating complex requirements into manageable development activities, coordin
 
 **[erikhaines.org](https://erikhaines.org)**
 
-Developed an independent professional and scholarly website bringing together research interests, writing, the *Integral [+] Facticity Podcast*, and emerging digital knowledge resources.
+I've developed an independent professional and scholarly website bringing together research interests, writing, the *Integral [+] Facticity Podcast*, and emerging digital knowledge resources.
 
 Selected work includes:
 
 - Website information architecture, navigation, content organization, and editorial development.
-- Development and publication of an interactive 21-episode podcast interface with scholarly descriptions, references, and structured reading resources.
+- Migration and presentation of the complete 21-episode podcast series, with scholarly descriptions, references, and structured reading resources.
 - Design and refinement of interactive scholarly presentation and discovery features.
 - Coordination of AI-assisted implementation, testing, version control, and production releases.
-- Search indexing, legacy URL preservation, and website migration considerations.
+- Search indexing, legacy URL preservation, and website migration.
 
-The project demonstrates practical experience in digital publishing, information architecture, research communication, technical coordination, and quality assurance.
+The project brings together my interests in digital publishing, information architecture, research communication, and the preservation and organization of scholarship.
 
 ### Metapattern Institute — Knowledge & Information Systems
 
 **[Metapattern Institute](https://metapattern.org)**
 
-As Founder and Director, I coordinate organizational development, knowledge infrastructure, research resources, information systems, and digital communication.
+As Founder and Director, I coordinate organizational development, research infrastructure, knowledge management, and digital communication.
 
 Selected technical and organizational work includes:
 
@@ -66,10 +66,10 @@ Selected technical and organizational work includes:
 - Design of relational information structures linking projects, activities, people, organizations, and institutional records.
 - Development of private research and reference Wiki environments incorporating structured articles, source references, search, navigation, and revision history.
 - Coordination of archival preservation, source separation, documentation, and version-controlled development.
-- Development and maintenance of institutional website resources and publishing workflows.
+- Development and maintenance of the Institute's bilingual website and publishing workflows.
 - Evaluation and integration of AI-assisted research and development tools.
 
-These activities involve both completed implementations and ongoing development. Internal systems remain private, and institutional records retain their own governance and authority.
+These activities involve both completed implementations and ongoing development. Internal research systems remain private, with institutional records retaining their own governance and authority.
 
 ### Scholarly Research & Knowledge Organization
 
@@ -87,36 +87,31 @@ These activities connect traditional scholarship with emerging approaches to dig
 
 ## Research & Intellectual Interests
 
-My independent scholarship draws on philosophy, religious studies, critical theory, social thought, and interdisciplinary approaches to human development.
+My independent scholarship draws on philosophy, religious studies, critical theory, political thought, and interdisciplinary approaches to human development.
 
 Current areas of inquiry include:
 
 - **Integral Facticity & Enactive Fallibilism** — Philosophical investigations into knowledge, experience, interpretation, agency, and the relationship between theory and lived practice.
 - **Intellectual History & Digital Publics** — Examining intellectual communities, institutions, media, traditions, and the historical processes through which ideas circulate and develop.
+- **Political Theory & Canadian Intellectual History** — Exploring questions of political power, sovereignty, social change, and Canadian intellectual traditions.
 - **Knowledge, Technology & Society** — Exploring the influence of information systems, artificial intelligence, and digital infrastructures on scholarship, institutions, and public understanding.
-- **Theory & Praxis** — Investigating relationships among philosophical reflection, practical judgment, human development, and meaningful action.
 - **AI, Human Agency & Contextual Learning** — Exploring how AI and emerging technologies can support inquiry, judgment, learning, and values-directed action while preserving meaningful distinctions between human experience and computational functioning.
 
 These interests inform my research and writing without constituting a single fixed theoretical framework.
 
-## Professional Development & Emerging Directions
+## Current Work & Professional Interests
 
-I am interested in developing further professional opportunities at the intersection of knowledge management, information systems, digital scholarship, and applied technology.
+My current work brings together knowledge management, information systems, digital scholarship, and applied technology.
 
-Areas of particular interest include:
+I'm particularly interested in research information management, digital humanities, digital curation, information architecture, organizational learning, and AI-assisted knowledge work.
 
-- Knowledge management and information architecture.
-- Research information management and digital humanities.
-- Digital curation, documentation, and information stewardship.
-- Information systems analysis and business process improvement.
-- AI-assisted knowledge work and technical project coordination.
-- Health information systems and emerging applications of health informatics.
+I'm also exploring applications in health information systems and emerging areas of health informatics.
 
-My approach emphasizes building on demonstrated transferable skills while continuing to develop technical proficiency, domain knowledge, and relevant professional qualifications.
+Alongside my independent scholarship and work with the Metapattern Institute, I remain interested in professional opportunities and collaborations where my experience in research, organizational work, technology, and communication can make a meaningful contribution.
 
 ## Writing & Scholarship
 
-My independent writing examines philosophy, religion, critical theory, human development, and contemporary intellectual life.
+My independent writing examines philosophy, religion, critical theory, political thought, human development, and contemporary intellectual life.
 
 The *Integral [+] Facticity Podcast* and my scholarly essays contribute to continuing inquiries into intellectual traditions, contemporary debates, human agency, and the relationship between theory and practice.
 
@@ -124,8 +119,6 @@ I am particularly interested in making interdisciplinary scholarship more access
 
 **Independent Writing & Professional Website:** [erikhaines.org](https://erikhaines.org)
 
+**Essays, Notes & Conversations:** [Integral [+] Facticity on Substack](https://erikhaines.substack.com)
+
 **Institutional Affiliation:** [Metapattern Institute](https://metapattern.org)
-
----
-
-*This profile presents my independent professional and intellectual work, including selected technical and organizational projects. AI-assisted contributions, developing capabilities, and independently verified accomplishments are distinguished where relevant.*
