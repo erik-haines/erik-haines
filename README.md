@@ -26,7 +26,7 @@ Working across historical materials and contemporary digital sources raises ques
 
 I use AI tools as substantive collaborators in research support, code generation, prototyping, documentation, testing, and technical troubleshooting. The useful question is not simply what an AI system can generate, but how the resulting work can be evaluated, corrected, reproduced, and maintained.
 
-My role includes establishing the purpose and requirements, making editorial and technical decisions, assessing proposed implementations, reviewing source evidence, checking outcomes against intended behaviour, and authorizing releases. Current projects make extensive use of Git-based version control, isolated development, automated and browser-level testing, release records, and rollback procedures. I do not present AI-generated code as evidence that I personally wrote every implementation.
+My role includes establishing the purpose and requirements, making editorial and technical decisions, assessing proposed implementations, reviewing source evidence, checking outcomes against intended behaviour, and authorizing releases. Current projects make extensive use of Git-based version control, isolated development, automated and browser-level testing, release records, and rollback procedures. This work depends on sustained direction, critical review, and verification—not simply the production of code.
 
 ### Digital Publishing & Public Communication
 
@@ -55,7 +55,7 @@ The site has moved beyond a chronological archive. Current public features inclu
 
 The underlying work includes reading and checking source material, reconciling identities and relationships, determining how material should be classified and displayed, and evaluating the consequences of changes to navigation and search. Recent development has involved a systematic review of the articles, the publication of People and Organizations directories, and further refinement of search and discovery.
 
-I direct the editorial and functional development, working with AI-assisted coding and research tools and verifying proposed changes through source review, Git history, automated tests, and checks on the live website. Not every experimental feature or private catalogue is suitable for publication; work still under review remains separate from the public site.
+I direct the editorial and functional development, working with AI-assisted coding and research tools and verifying proposed changes through source review, Git history, automated tests, and checks on the live website. Private catalogues and research prototypes remain separate from the published site.
 
 A fuller account of the site's development appears in [*From Substack to Flowershow*](https://erikhaines.org/integral-facticity/from-substack-to-flowershow).
 
@@ -71,13 +71,13 @@ Selected areas of development include:
 - The Institute's bilingual website, digital communication, and supporting documentation.
 - Evaluation and coordination of AI-assisted research and technical work, with attention to source quality, practical testing, and institutional oversight.
 
-These are continuing organizational and technical responsibilities, not claims that every internal development is complete or publicly available. Institutional information is kept separate from my personal records and publishing. The private repositories and operational systems are not public portfolios or invitations to access internal material.
+These initiatives include functioning systems as well as work still in development. Institutional information and source repositories remain separate from my personal records and publishing.
 
 ### Independent Inquiry, Writing & Podcast Conversations
 
 Alongside professional and institutional responsibilities, I have maintained a sustained interest in philosophy, religion, critical theory, political thought, human development, and the historical movement of ideas between communities and institutions.
 
-My articles and conversations are not a single-purpose technical product. They document a developing intellectual history: questions taken up at different times, people and texts that mattered to particular discussions, and changes in my thinking. The work of organizing them digitally grows out of that history rather than replacing it.
+My articles and conversations document a developing intellectual history: questions taken up at different times, people and texts that mattered to particular discussions, and changes in my thinking. The work of organizing them digitally grows out of that history rather than replacing it.
 
 An important part of this undertaking is distinguishing intellectual relationships from mere co-occurrence. A person discussed at length is not the same as someone named in passing; a work cited is not necessarily a direct influence; and a private relationship record is not a public bibliographic claim. These distinctions inform both the editorial work and the technical systems used to present it.
 
@@ -97,7 +97,7 @@ These interests inform my writing and practical work; they do not constitute a c
 
 I am interested in opportunities where substantial professional experience, technical judgment, and the careful treatment of information matter. Relevant fields include knowledge management, research information management, digital humanities, information systems, digital curation, organizational learning, digital publishing, and AI-assisted work.
 
-I am also exploring the possibilities of health information systems and informatics, without treating exploratory interests as qualifications or established programmes. Depending on the context, worthwhile opportunities may involve employment, consulting, research collaboration, teaching, or the development of useful information resources.
+I am also exploring health information systems and informatics, particularly where careful record-keeping and usable information can improve services. Depending on the context, worthwhile opportunities may involve employment, consulting, research collaboration, teaching, or the development of useful information resources.
 
 My objective is to apply what I have learned through professional work and independent development to problems of genuine organizational, intellectual, and public value.
 
