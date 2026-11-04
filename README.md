@@ -1,55 +1,110 @@
 # Erik Haines
 
-**Knowledge Management · Information Systems · Digital Publishing**
+**Knowledge Management · Information Systems · Research Information Management · Digital Publishing**
 
-I'm a Montréal-based professional with more than 20 years of experience across information technology, financial services, human services, and organizational work. My interests lie in how information is organized, connected, preserved, and made useful—whether in an organization's daily operations or in a collection of writing, conversations, and references.
+I am a Montréal-based professional with more than twenty years of experience across information technology, financial services, human services, and organizational work. My professional interests extend from the day-to-day realities of institutions and service delivery to the long-term problems of organizing, preserving, and communicating knowledge.
 
-I develop and coordinate information systems, documentation, digital publishing projects, and AI-assisted workflows. I'm also the Founder and Director of the [Metapattern Institute](https://metapattern.org). My independent work and the Institute's activities have distinct purposes, records, and responsibilities.
+Much of my current work concerns the relationship between information, its context, and the systems through which people use it. A record is of limited value if its source cannot be established; a collection is difficult to use if its contents cannot be found and related; and a technical system is of little practical use if it does not support the people and decisions for which it was developed. These are recurring concerns across my professional experience, independent research, and technical projects.
 
-## Selected Work
+I am the Founder and Director of the [Metapattern Institute](https://metapattern.org). Separately, I maintain [erikhaines.org](https://erikhaines.org), my independent website and home for articles, the *Integral [+] Facticity Podcast*, intellectual history, and developing reference collections. My personal work and the Institute's institutional activities have separate responsibilities, records, and publication authority.
 
-### [erikhaines.org](https://erikhaines.org) — Independent Website and Connected Research Materials
+## Professional Experience & Capabilities
 
-My website brings together articles, the 21-episode *Integral [+] Facticity Podcast*, and a growing collection of connected references. It preserves the history of my writing and interests while making it easier to follow people, subjects, organizations, and ideas across different entries.
+### Knowledge Management & Information Systems
 
-Recent developments include:
+My work includes organizing complex information across records, people, projects, activities, and institutions; developing practical methods for retrieval and continuity; and improving the usefulness of documentation as work evolves.
 
-- [People](https://erikhaines.org/integral-facticity/people) and [Organizations](https://erikhaines.org/integral-facticity/organizations) directories linking names to the articles and podcast episodes in which they appear.
-- Searchable subjects and search terms, with connections back to the relevant material.
-- Article Information panels showing contextual details and routes to related entries.
-- Preservation and reorganization of earlier publications, podcast material, and links, including tested redirects from former article addresses.
-- Editorial review, AI-assisted implementation, browser testing, version-controlled changes, and release verification.
+This involves more than choosing software. It requires understanding what information is needed, who is responsible for it, how records relate to one another, how changes are documented, and what needs to be preserved when a process or organization changes. I have applied these concerns to relational data environments, project and activity systems, internal reference collections, and public-facing information resources.
 
-This is an ongoing personal project. The published site is available to explore; research materials and development work that have not been approved for public use remain private.
+### Research Information Management & Digital Curation
 
-### [Metapattern Institute](https://metapattern.org) — Organizational and Information Systems
+I develop and maintain organized collections of publications, references, research notes, and source material. Particular concerns include bibliographic identity, metadata quality, classification, provenance, version history, and the distinction between a documented reference and an interpretation of that reference.
 
-As Founder and Director, I work on organizational development, institutional records, information systems, and digital communication. This includes connected environments for planning, projects, tasks, activity records, and relationships; internal documentation and reference systems; and the Institute's bilingual website.
+Working across historical materials and contemporary digital sources raises questions of attribution, duplicate identities, changing names, editions, dates, and the boundaries of what a source can establish. I am interested in methods that preserve those distinctions while making the material easier to discover and connect.
 
-I work to keep information accessible, records traceable, and systems maintainable as projects change. Institutional work is managed separately from my personal website and writing. Internal records and development repositories are not public demonstrations.
+### AI-Assisted Research, Development & Verification
 
-## How I Work
+I use AI tools as substantive collaborators in research support, code generation, prototyping, documentation, testing, and technical troubleshooting. The useful question is not simply what an AI system can generate, but how the resulting work can be evaluated, corrected, reproduced, and maintained.
 
-My work combines organizational experience with hands-on development and careful review. I move between understanding the problem, organizing the material, defining requirements, testing an approach, and making it useful to the people who rely on it.
+My role includes establishing the purpose and requirements, making editorial and technical decisions, assessing proposed implementations, reviewing source evidence, checking outcomes against intended behaviour, and authorizing releases. Current projects make extensive use of Git-based version control, isolated development, automated and browser-level testing, release records, and rollback procedures. I do not present AI-generated code as evidence that I personally wrote every implementation.
 
-I use AI tools for research support, programming, documentation, troubleshooting, and testing. I remain responsible for the direction of the work, source and factual checks, editorial choices, and decisions about what is released.
+### Digital Publishing & Public Communication
 
-Areas I regularly work with include knowledge management, information systems, relational records, metadata and classification, documentation, digital preservation, research information management, search and navigation, and publishing workflows.
+I maintain an independent publication and podcast archive and work on the practical problems of digital preservation: moving material between platforms, maintaining earlier addresses, improving navigation and accessibility, and retaining the context in which writing first appeared.
 
-## Intellectual Interests
+For me, publishing is not separate from knowledge management. Articles, recordings, references, people, organizations, and the discussion around them form a connected body of work whose history can be obscured by platforms organized primarily around recency and feeds.
 
-Alongside my professional work, I write and host conversations on philosophy, religion, political thought, intellectual history, human development, and technology. *Integral Facticity* and *Enactive Fallibilism* are ongoing lines of inquiry rather than finished systems.
+### Organizational Development & Technical Coordination
 
-I'm interested in how AI and digital tools can extend human judgment, learning, and the organization of knowledge without replacing the experience and responsibility of the people using them.
+My experience also encompasses coordinating organizational work, defining requirements, developing documentation, assessing systems, and bringing technical and non-technical considerations into the same process. I am interested in solutions that remain intelligible to the people responsible for them—not just to whoever originally configured them.
 
-## Opportunities and Connections
+## Selected Projects & Applied Work
 
-I'm interested in substantive professional work and collaboration involving knowledge management, information systems, digital humanities, digital curation, research collections, organizational learning, and responsible uses of AI. I bring established professional experience as well as practical experience developing and improving connected information environments.
+### [erikhaines.org](https://erikhaines.org) — Independent Website, Publications & Connected References
 
-## Explore
+The website brings together my articles, the 21-episode *Integral [+] Facticity Podcast*, and related material accumulated over years of reading, writing, conversations, and organizational activity. It is simultaneously a public record of this work and a developing means of navigating connections within it.
 
-- **[erikhaines.org](https://erikhaines.org)** — Personal website, articles, podcast, and connected references
-- **[Integral [+] Facticity on Substack](https://erikhaines.substack.com)** — Notes, updates, and conversation
-- **[Metapattern Institute](https://metapattern.org)** — Institutional website
+The site has moved beyond a chronological archive. Current public features include:
 
-Most of the repositories associated with these projects are private. The public-facing work is accessible through the links above.
+- A [People Directory](https://erikhaines.org/integral-facticity/people) connecting named people to articles and podcast episodes, with searchable identities and links back to the relevant entries.
+- An [Organizations Directory](https://erikhaines.org/integral-facticity/organizations) with normalized names and connections across the published collection.
+- Subject and Search Term browsing, with search results that lead readers from a topic or reference to the relevant article or episode.
+- Article Information panels identifying contextual details and linking associated people and organizations to the wider collection.
+- The preserved 21-episode podcast series, with episode information and references alongside the article archive.
+- Redirects from earlier article addresses, checked as part of the process of moving the material to its present home.
+
+The underlying work includes reading and checking source material, reconciling identities and relationships, determining how material should be classified and displayed, and evaluating the consequences of changes to navigation and search. Recent development has involved a systematic review of the articles, the publication of People and Organizations directories, and further refinement of search and discovery.
+
+I direct the editorial and functional development, working with AI-assisted coding and research tools and verifying proposed changes through source review, Git history, automated tests, and checks on the live website. Not every experimental feature or private catalogue is suitable for publication; work still under review remains separate from the public site.
+
+A fuller account of the site's development appears in [*From Substack to Flowershow*](https://erikhaines.org/integral-facticity/from-substack-to-flowershow).
+
+### [Metapattern Institute](https://metapattern.org) — Institutional Development & Knowledge Systems
+
+As Founder and Director, I work on the Institute's organizational development, knowledge management, research support, and digital presence. That includes the less visible but consequential work of establishing dependable records and workable relationships among institutional activities.
+
+Selected areas of development include:
+
+- A connected operations environment for planning, projects, tasks, activity history, people, and organizations, with differentiated workspaces drawing on shared records.
+- Procedures for recording decisions, preserving context, tracking changes, and keeping ongoing work distinguishable from completed or retired initiatives.
+- Private reference and wiki environments for institutional documents, source material, related concepts, and research activity.
+- The Institute's bilingual website, digital communication, and supporting documentation.
+- Evaluation and coordination of AI-assisted research and technical work, with attention to source quality, practical testing, and institutional oversight.
+
+These are continuing organizational and technical responsibilities, not claims that every internal development is complete or publicly available. Institutional information is kept separate from my personal records and publishing. The private repositories and operational systems are not public portfolios or invitations to access internal material.
+
+### Independent Inquiry, Writing & Podcast Conversations
+
+Alongside professional and institutional responsibilities, I have maintained a sustained interest in philosophy, religion, critical theory, political thought, human development, and the historical movement of ideas between communities and institutions.
+
+My articles and conversations are not a single-purpose technical product. They document a developing intellectual history: questions taken up at different times, people and texts that mattered to particular discussions, and changes in my thinking. The work of organizing them digitally grows out of that history rather than replacing it.
+
+An important part of this undertaking is distinguishing intellectual relationships from mere co-occurrence. A person discussed at length is not the same as someone named in passing; a work cited is not necessarily a direct influence; and a private relationship record is not a public bibliographic claim. These distinctions inform both the editorial work and the technical systems used to present it.
+
+## Research & Intellectual Interests
+
+My continuing interests span several connected but distinct areas:
+
+- **Integral Facticity & Enactive Fallibilism:** Ongoing questions about knowledge, interpretation, experience, fallibility, agency, and the relationship between theory and lived practice.
+- **Intellectual History & Digital Publics:** How ideas circulate through books, institutions, communities, publishing platforms, and conversations—and how those histories can be preserved without flattening their differences.
+- **Political Theory & Canadian Intellectual History:** Political power, democratic institutions, sovereignty, political economy, and the histories informing contemporary debate.
+- **Knowledge, Technology & Society:** The consequences of information systems, digital platforms, AI, and emerging technologies for institutions and public understanding.
+- **Human Agency & Contextual Learning:** How computational tools might extend inquiry and judgment while remaining accountable to human experience, practical responsibility, and the limits of their own outputs.
+
+These interests inform my writing and practical work; they do not constitute a completed or compulsory theoretical system.
+
+## Current Professional Directions
+
+I am interested in opportunities where substantial professional experience, technical judgment, and the careful treatment of information matter. Relevant fields include knowledge management, research information management, digital humanities, information systems, digital curation, organizational learning, digital publishing, and AI-assisted work.
+
+I am also exploring the possibilities of health information systems and informatics, without treating exploratory interests as qualifications or established programmes. Depending on the context, worthwhile opportunities may involve employment, consulting, research collaboration, teaching, or the development of useful information resources.
+
+My objective is to apply what I have learned through professional work and independent development to problems of genuine organizational, intellectual, and public value.
+
+## Writing, Projects & Contact
+
+- **[erikhaines.org](https://erikhaines.org)** — Independent website, articles, podcast, and connected research materials
+- **[Integral [+] Facticity on Substack](https://erikhaines.substack.com)** — Essays, Notes, updates, and ongoing conversations
+- **[Metapattern Institute](https://metapattern.org)** — Institutional development and public information
+
+The source repositories for several ongoing projects remain private. Their public outcomes are linked above; internal development records, institutional information, and unapproved research materials retain their respective boundaries.
