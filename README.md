@@ -42,9 +42,9 @@ This experience has given me a practical understanding of business technology ma
 
 **Management Consulting & Technology Assessment**
 
-My management consulting experience spans organizational development, service operations and technology-related work across commercial and nonprofit settings. It has involved examining organizational needs, available resources, operational constraints and the practical implications of service and technology decisions.
+My management consulting experience includes organizational development, service improvement and technology evaluation across commercial and nonprofit settings. I have assessed organizational needs, evaluated service and technology requirements, and worked on operational processes, information management and the implementation of practical solutions.
 
-I am developing my work in technology assessment, with particular attention to the capabilities, alternatives, risks and organizational consequences of emerging technologies.
+I am extending this experience into technology assessment, particularly in artificial intelligence and information systems. My interests include evaluating technological capabilities and limitations, comparing alternatives, and examining their implications for organizational operations, professional practice and decision-making.
 
 ## Current Work & Projects
 
