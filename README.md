@@ -1,20 +1,14 @@
 # Erik Haines
 
-**Knowledge Management · Information Systems · Digital Scholarship**
+**Knowledge Management · Information Systems · Technology Solutions**
 
-I'm a Montréal-based professional with more than twenty years of experience across technology, financial services, organizational operations, client relations, and consulting, including work with Canadian non-profit and third-sector organizations.
+I'm a Montréal-based bilingual professional with more than twenty years of experience in business development, account management, financial services, technology solutions, management consulting and organizational operations across the private and nonprofit sectors.
 
-My experience spans commercial, financial, educational, and social-service environments, bringing together technical knowledge, consultation, organizational coordination, and problem-solving. Working across these sectors has developed my understanding of how organizations operate, how people use information and technology, and what makes technical and organizational solutions effective in practice.
+My B2B technology experience includes account management and business development, with a focus on IT products, software and cloud services. I have also worked extensively in financial services and telecommunications, developing expertise in client relations, complex service operations and problem resolution. My management consulting experience extends to organizational development, technology assessment and service improvement across different industries and institutional settings.
 
-Alongside this experience, I have pursued longstanding intellectual interests in philosophy, religion, social theory, human development, and technology. These interests increasingly inform my work in knowledge management, research information systems, digital humanities, and artificial intelligence.
+Alongside my employment, I founded Metapattern in 2018 as an independent venture in communications, marketing and managed IT services. It has since developed into the Metapattern Institute, where I work on knowledge management, information systems, AI-assisted technical development and digital communications. It remains a part-time undertaking alongside my professional employment.
 
 ## Professional Capabilities
-
-**Management Consulting & Technology Assessments**
-
-My professional experience includes assessing organizational needs, evaluating technology and service requirements, coordinating solutions, and improving operational processes. Consulting with non-profit and third-sector organizations has informed my understanding of institutional capacity, resource constraints, service delivery, and the challenges of technology adoption.
-
-I am extending these interests into technology assessment, particularly the systematic evaluation of technological capabilities, alternatives, risks, and consequences. This includes questions of organizational suitability, social impact, ethical responsibility, and informed decision-making.
 
 **Knowledge Management & Information Systems**
 
@@ -36,13 +30,29 @@ My approach combines professional judgment, interdisciplinary knowledge, and ite
 
 Current methods include relational data management, Git-based version control, software prototyping, technical documentation, quality assurance, and testing across applications and systems.
 
+**Professional Communication & Digital Production**
+
+I develop communication products—including websites, interviews, podcasts, research briefings and digital publications—from concept and editorial planning through production and publication. This involves audience awareness, interviewing, writing, editing, technical coordination, and presenting specialized material clearly.
+
+**Business Development & Enterprise Technology**
+
+My commercial background includes B2B technology sales, business account management and work with software, cloud services and managed IT offerings. I have experience with Salesforce and HubSpot CRM, as well as Microsoft business applications and enterprise technology solutions.
+
+This experience has given me a practical understanding of business technology markets, account development and the organizational demands of introducing new products and services.
+
+**Management Consulting & Technology Assessment**
+
+My management consulting experience spans organizational development, service operations and technology-related work across commercial and nonprofit settings. It has involved examining organizational needs, available resources, operational constraints and the practical implications of service and technology decisions.
+
+I am developing my work in technology assessment, with particular attention to the capabilities, alternatives, risks and organizational consequences of emerging technologies.
+
 ## Current Work & Projects
 
 ### Metapattern Institute
 
-I am the Founder and Director of the [Metapattern Institute](https://metapattern.org), an independent undertaking concerned with interdisciplinary research, education, knowledge development, and collaboration.
+I established Metapattern in 2018 as a communications, marketing and managed IT services business alongside my employment. The venture later developed into the [Metapattern Institute](https://metapattern.org), whose public research and knowledge-mobilization identity took shape in 2024. I continue to direct its development on a part-time basis.
 
-My responsibilities encompass organizational development, governance, institutional planning, research coordination, information systems, and digital communication.
+My responsibilities encompass business and organizational development, governance, institutional planning, research coordination, information systems, and digital communication.
 
 Current activities include developing institutional knowledge-management and research environments, strengthening organizational systems, and advancing the Institute's direction in technology assessment, knowledge brokering, and knowledge mobilization.
 
@@ -80,9 +90,9 @@ These interests inform different aspects of my work without constituting a singl
 
 ## Professional Interests & Opportunities
 
-I'm interested in opportunities that combine my established professional experience with my developing capabilities in management consulting, knowledge management, information systems, research, and technology assessment.
+I'm interested in opportunities that bring together client and stakeholder relationships, business development, consulting, technology solutions, knowledge management, information systems, and AI. My focus is on helping organizations understand complex needs, evaluate possibilities, and make knowledge and technology more useful in practice.
 
-Potential areas of engagement include consulting, employment, technical and research collaboration, digital humanities, knowledge mobilization, and AI-assisted development.
+Potential areas of engagement include enterprise AI and knowledge software, client and solution advisory roles, business development, management consulting, knowledge mobilization, technical collaboration, and digital humanities.
 
 ## Online Presence
 
