@@ -1,6 +1,6 @@
 # Erik Haines
 
-**Knowledge Management · Information Systems · Technology Solutions**
+**Knowledge Management · Information Systems · Digital Scholarship**
 
 I'm a Montréal-based bilingual professional with more than twenty years of experience in business development, account management, financial services, technology solutions, management consulting and organizational operations across the private and nonprofit sectors.
 
