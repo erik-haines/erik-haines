@@ -1,8 +1,8 @@
 # Erik Haines
 
-**Knowledge Management · Information Systems · Digital Scholarship**
+**Knowledge Management · AI Informational Systems · Digital Humanities**
 
-I'm a Montréal-based bilingual professional, independent researcher, and Founder and Director of the [Metapattern Institute](https://metapattern.org). My work focuses on knowledge management, information systems, and digital scholarship, including the development of research resources and systems that support the organization, preservation, discovery, and use of knowledge.
+I'm a Montréal-based bilingual professional, independent researcher, and Founder and Director of the [Metapattern Institute](https://metapattern.org). My work focuses on knowledge management, AI informational systems, and digital humanities, including the development of information resources and systems that support the organization, preservation, discovery, and use of knowledge.
 
 I have more than twenty years of professional experience in business development, management consulting, financial services, enterprise technology, and organizational operations across the private and nonprofit sectors. My background includes client and account management, organizational development, technology assessment, and the evaluation and improvement of business services and operations.
 
