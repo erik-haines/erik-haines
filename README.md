@@ -44,7 +44,7 @@ My commercial experience includes B2B technology sales, business development, ac
 
 This background has given me extensive experience in client relations, business technology markets, account development, and helping organizations evaluate and adopt technology solutions.
 
-**Management Consulting & Technology Assessment**
+**Management Consulting & Technology Assessments**
 
 My management consulting experience includes organizational development, service improvement, and technology assessment across commercial and nonprofit settings. I have worked with organizations to identify needs, evaluate alternatives, improve operations, and assess how technology can support their services and objectives.
 
