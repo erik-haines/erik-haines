@@ -42,13 +42,13 @@ My experience includes interviewing, research, writing, editing, audience develo
 
 My commercial experience includes B2B technology sales, business development, account management, and work with software, cloud services, and managed IT solutions. I have worked with Salesforce and HubSpot CRM, Microsoft business applications, and enterprise technology products and services.
 
-This background has given me extensive experience in client relations, business technology markets, account development, and helping organizations evaluate and adopt technology solutions.
+This background has given me extensive experience in client relations, business technology markets, and account development.
 
 **Management Consulting & Technology Assessments**
 
 My management consulting experience includes organizational development, service improvement, and technology assessment across commercial and nonprofit settings. I have worked with organizations to identify needs, evaluate alternatives, improve operations, and assess how technology can support their services and objectives.
 
-Technology assessment also complements my work in knowledge management. Changes in technology can affect how organizations create, share, preserve, and use knowledge, with consequences for professional expertise, organizational learning, and institutional capacity. These relationships are especially relevant to my current interests in artificial intelligence and information systems, including the organizational, social, and ethical implications of their development and use.
+Technology assessments also complement my work in knowledge management, particularly where changes in information systems affect professional expertise, organizational learning, and institutional capacity. These relationships are relevant to my interests in artificial intelligence and its organizational, social, and ethical implications.
 
 ## Current Work & Projects
 
@@ -56,7 +56,7 @@ Technology assessment also complements my work in knowledge management. Changes 
 
 I established Metapattern in 2018 as a communications, marketing, and managed IT services business alongside my professional employment. It subsequently developed into the [Metapattern Institute](https://metapattern.org), adopting its public research and knowledge mobilization mission in 2024. I continue to direct the Institute on a part-time basis.
 
-As Founder and Director, I am responsible for institutional planning, organizational development, research infrastructure, knowledge management, information systems, and digital communications. My work draws on experience in management consulting, technology, and organizational operations, alongside my independent research and intellectual interests.
+As Founder and Director, I am responsible for institutional planning and development. My work draws on experience in management consulting, technology, and organizational operations, alongside my independent research and intellectual interests.
 
 The Institute's research programme addresses knowledge management and organizational learning, research discovery and information access, digital curation and knowledge stewardship, scholarly communication, knowledge brokering, and knowledge mobilization.
 
@@ -66,7 +66,7 @@ Current priorities include developing research resources and institutional infor
 
 My technical projects include the development of research collections, relational information systems, digital repositories, and tools for organizing and discovering scholarly resources.
 
-I work with bibliographic records, metadata, classification systems, linked information, and search and retrieval tools. These projects draw on library and information-science practices, knowledge management, database development, and AI-assisted programming.
+These projects apply library and information-science practices alongside database development and AI-assisted programming to the organization and discovery of connected resources.
 
 An important consideration throughout this work is preserving the provenance, context, and integrity of information while making research collections accessible and useful to others.
 
@@ -111,11 +111,11 @@ I'm interested in professional roles, consulting engagements, and collaborations
 
 Areas of particular interest include enterprise AI and knowledge software, technology assessment, organizational development, client and solution advisory roles, research infrastructure, digital humanities, and knowledge mobilization.
 
-I offer extensive commercial and organizational experience, practical technical capabilities, and an interdisciplinary research background. I am interested in working with organizations to assess their needs, improve services and operations, develop knowledge-management capabilities, and make effective use of emerging technologies.
+I am interested in working with organizations to assess their needs, improve services and operations, develop knowledge-management capabilities, and make effective use of emerging technologies.
 
 ## Online Presence
 
-My personal website, **erikhaines.org**, presents my independent research, writing, and intellectual interests. It hosts my articles, essays, reviews, and the *Integral [+] Facticity Podcast*, together with developing research-library and discovery resources.
+My personal website, **erikhaines.org**, brings together my articles, essays, reviews, the *Integral [+] Facticity Podcast*, and developing research-library and discovery resources.
 
 The **Metapattern Institute** website presents the organization's mission, research programme, and institutional development.
 
