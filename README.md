@@ -82,15 +82,28 @@ I am also interested in documenting intellectual history and the ways ideas deve
 
 My philosophical work includes the continuing development of **Integral Facticity** and **Enactive Fallibilism**, informed by interests in epistemology, phenomenology, contextual behavioral science, political philosophy, and human development.
 
-My broader research and professional interests include:
+At the Metapattern Institute, these concepts form part of a broader [philosophical orientation](https://metapattern.org/theory-praxis.html) that brings integral humanism and integral pluralism into conversation with the digital humanities, information science, and the social sciences. The Institute's six paired axes are:
 
-- **Digital Humanities & Knowledge Management** — Research libraries, digital collections, knowledge graphs, information systems, and scholarly communication.
-- **Technology Assessment & Responsible Innovation** — The evaluation of technologies and their implications for organizations, professional practice, public policy, and society.
-- **AI & Society** — Artificial intelligence in research, organizational learning, knowledge work, and professional decision-making.
+1. **Integral Facticity [+] Enactive Fallibilism**
+2. **Health Informatics [+] Integral Human Development**
+3. **Digital Ethnography [+] Political Anthropology**
+4. **Digital Technology [+] Integral Humanism**
+5. **Digital Curation [+] Knowledge Management**
+6. **Library Management [+] Information Science**
+
+These axes are related points of inquiry, not separate programmes. They connect questions of human agency, development, knowledge, and institutions with the ways information and technology shape practical life.
+
+I am particularly interested in how artificial intelligence is changing the relationship between human understanding and information systems, including the implications for judgment, organizational learning, and professional practice.
+
+My broader interests include:
+
+- **Digital Humanities & Knowledge Management** — Research libraries, digital collections, knowledge graphs, information systems, and the organization and circulation of knowledge.
+- **AI Information Systems & Society** — Emerging AI capabilities, knowledge systems, organizational learning, human judgment, and the adoption of intelligent technologies.
 - **Health Information Systems** — Information management and technology in healthcare services, research, and organizational operations.
-- **Nonprofit & Third-Sector Development** — Organizational development, management consulting, technology adoption, and knowledge mobilization.
+- **Organizational Development & Technology Adoption** — The relationship between emerging technologies, organizational needs, professional practices, and institutional change.
+- **Nonprofit & Third-Sector Development** — Organizational development, management consulting, information systems, and knowledge mobilization.
 
-These interests inform my ongoing research, technical projects, and professional development.
+These interests inform my current projects and professional development.
 
 ## Professional Interests & Opportunities
 
