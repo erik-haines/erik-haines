@@ -2,7 +2,7 @@
 
 **Knowledge Management · AI-Enabled Information Systems · Digital Humanities**
 
-I'm a Montréal-based bilingual knowledge management professional, independent researcher, and Founder and Director of the [Metapattern Institute](https://metapattern.org). My work focuses on knowledge management, AI-enabled information systems, and digital humanities, including the development of information resources and systems that support the organization, preservation, discovery, and use of knowledge.
+I'm a Montréal-based bilingual IT/KM professional, independent researcher, and Founder and Director of the [Metapattern Institute](https://metapattern.org). My work focuses on knowledge management, AI-enabled information systems, and digital humanities, including the development of information resources and systems that support the organization, preservation, discovery, and use of knowledge.
 
 I have more than twenty years of professional experience in business development, management consulting, financial services, enterprise technology, and organizational operations across the private and nonprofit sectors. My background includes client and account management, organizational development, technology assessments, and the evaluation and improvement of business services and operations.
 
